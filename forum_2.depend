@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695615567 source:c:\users\sidab\onedrive\documents\desktop\forum_2\forum_2.cpp
+	<iostream>
+	"forum_2.h"
+
+1695616079 c:\users\sidab\onedrive\documents\desktop\forum_2\forum_2.h
+	<iostream>
+
+1695615576 source:c:\users\sidab\onedrive\documents\desktop\forum_2\main.cpp
+	<iostream>
+	"forum_2.h"
+
