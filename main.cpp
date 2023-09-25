@@ -1,8 +1,6 @@
 #include <iostream>
 #include "forum_2.h"
 
-using namespace std;
-
 int main()
 {
     List L;
